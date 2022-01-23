@@ -1,0 +1,50 @@
+{
+  "name": "getaway",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "seeder": "node utils/seeder"
+  },
+  "dependencies": {
+    "@babel/register": "^7.16.9",
+    "@stripe/stripe-js": "^1.22.0",
+    "axios": "^0.21.4",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.28.1",
+    "easyinvoice": "^1.0.153",
+    "mdbreact": "^5.2.0",
+    "moment": "^2.29.1",
+    "moment-range": "^4.0.2",
+    "mongoose": "^5.13.14",
+    "mongoose-timezone": "^1.3.0",
+    "next": "^10.1.3",
+    "next-absolute-url": "^1.2.2",
+    "next-auth": "^3.27.3",
+    "next-connect": "^0.10.2",
+    "next-redux-wrapper": "^6.0.2",
+    "nodemailer": "^6.7.2",
+    "raw-body": "^2.4.2",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.4",
+    "react-datepicker": "^3.8.0",
+    "react-dom": "^17.0.2",
+    "react-js-pagination": "^3.0.3",
+    "react-redux": "^7.2.6",
+    "react-toastify": "^7.0.4",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
+    "seeder": "^0.2.4",
+    "sharp": "^0.29.3",
+    "stripe": "^8.199.0",
+    "uuidv4": "^6.2.12",
+    "validator": "^13.7.0",
+    "webpack": "^5.67.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11"
+  }
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "name": "JW Marriot Mumbai - Sunset Suite",
+    "pricePerNight": 24750,
+    "description": "Discover the sunset state of mind and experience picturesque views of the Arabian Sea from our luxuriously furnished Sunset Suite.",
+    "address": "Juhu Tara Road, Mumbai - 400049",
+    "guestCapacity": 2,
+    "numOfBeds": 1,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "getaway/rooms/jw1_fddvqs",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642883235/getaway/rooms/jw1_fddvqs.jpg"
+      },
+      {
+        "public_id": "getaway/rooms/jw2_pv18ck",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642883235/getaway/rooms/jw2_pv18ck.jpg"
+      }
+    ],
+    "category": "Suite"
+  },
+  {
+    "name": "Taj Lake Palace - Grand Royal Suite, Udaipur",
+    "pricePerNight": 127119,
+    "description": "The Grand Royal Suites are the epitome of royal grandeur. Each of these individually themed suites feature high ceilings, deeply-carved mouldings, ornate glasswork, and miniature paintings. Many rooms offers unique features: Jacuzzi tubs, marble clad bathrooms with switch-lite glass windows, rain-showers, original works of art, crystal chandeliers.",
+    "address": "Pichola, Udaipur, Rajasthan - 313001",
+    "guestCapacity": 4,
+    "numOfBeds": 2,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "getaway/rooms/taj1_e9kofg",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642884064/getaway/rooms/taj1_e9kofg.jpg"
+      },
+      {
+        "public_id": "getaway/rooms/taj2_ksze5y",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642884064/getaway/rooms/taj2_ksze5y.jpg"
+      },
+      {
+        "public_id": "getaway/rooms/taj3_o1rsuh",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642884064/getaway/rooms/taj3_o1rsuh.jpg"
+      },
+      {
+        "public_id": "getaway/rooms/taj4_kfzckx",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642884064/getaway/rooms/taj4_kfzckx.jpg"
+      }
+    ],
+    "category": "Suite"
+  },
+  {
+    "name": "Shangri-La Eros, New Delhi",
+    "pricePerNight": 12377,
+    "description": "Our Deluxe Rooms offer stylish comfort with sweeping city views. A calming space filled with shades of soft grey, beige and cobalt with subtle gold accents, these rooms are the perfect introduction to the historic city of New Delhi.",
+    "address": "19 Ashoka Road, Connaught Place, New Delhi - 110 001",
+    "guestCapacity": 2,
+    "numOfBeds": 1,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "getaway/rooms/shangri1_x2keej",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642699926/getaway/rooms/shangri1_x2keej.jpg"
+      },
+      {
+        "public_id": "getaway/rooms/shangri2_tznalc",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642699932/getaway/rooms/shangri2_tznalc.jpg"
+      }
+    ],
+    "category": "Deluxe"
+  },
+  {
+    "name": "Hilton Mumbai International Airport, Mumbai",
+    "pricePerNight": 7500,
+    "description": "Pool-view, Double Bed, Colonial decor, large windows, separate bathtub and shower.                     Feel at home in this comfortable, stylish guest room with a range of features to enhance comfort and convenience during your stay, including a 40-inch TV with HD channels, desk with ergonomic chair and WiFi. Make a coffee from the coffee kettle and refresh in the elegant bathroom with separate shower cubicle. Special touches include bathrobe and slippers. Spacious and elegant, our guest rooms offer a well-furnished refuge that expresses a distinct Old World sensibility in decor combined with world-class hospitality.",
+    "address": "Sahar Airport Rd, Ashok Nagar, Andheri East, Mumbai, Maharashtra 400099",
+    "guestCapacity": 2,
+    "numOfBeds": 1,
+    "internet": false,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "getaway/rooms/hilton1_exapgg",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642698491/getaway/rooms/hilton1_exapgg.webp"
+      },
+      {
+        "public_id": "getaway/rooms/hilton2_agt5hj",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642698500/getaway/rooms/hilton2_agt5hj.webp"
+      }
+    ],
+    "category": "Deluxe"
+  },
+  {
+    "name": "ITC Grand - ITC One Exclusive, Goa",
+    "pricePerNight": 25650,
+    "description": "Guests can quietly absorb magnificent views of the Arabian Sea and Arossim beach from their private balcao or balcony. Sunsets are magical.Bundled with thoughtful amenities and attentive service.",
+    "address": "Arossim Beach, Cansaulim, South Goa, Goa - 403712",
+    "guestCapacity": 2,
+    "numOfBeds": 1,
+    "internet": true,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "getaway/rooms/itc1_uuump4",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642882060/getaway/rooms/itc1_uuump4.jpg"
+      }
+    ],
+    "category": "Cabana"
+  },
+  {
+    "name": "Le Pondy - Luxury Pool Villa, Pondicherry",
+    "pricePerNight": 	18000,
+    "description": "The Luxury pool villas with a private pool are the epitome of privacy and character. They reflect the architectural style of pondicherry and are sprinkled with all modern comforts that put you at ease.",
+    "address": "No.3, Lake View Road, Pudukuppam, Nallvadu Post, Pondicherry 605007",
+    "guestCapacity": 2,
+    "numOfBeds": 1,
+    "internet": true,
+    "breakfast": false,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "getaway/rooms/lepondy1_b6fol1",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642882374/getaway/rooms/lepondy1_b6fol1.jpg"
+      }
+    ],
+    "category": "Cabana"
+  },
+  {
+    "name": "Sky Villa, Nashik",
+    "pricePerNight": 58828,
+    "description": "This luxury 3040 feet villa will definitely feel like home. Overlooking the beautiful Gangapur lake, this tremendous three bedroom property also has its own private swimming pool. The spacious living room is the promise of wonderful afternoons, while the dining area and its large table will ensure that your evening is memorable. A stay you will cherish for a long time.",
+    "address": "S.No.41/1B, Gangavhare, Nashik, Maharashtra 422222",
+    "guestCapacity": 6,
+    "numOfBeds": 6,
+    "internet": true,
+    "breakfast": false,
+    "airConditioned": true,
+    "petsAllowed": true,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "getaway/rooms/skyvilla1_vol1qx",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642881193/getaway/rooms/skyvilla1_vol1qx.jpg"
+      },
+      {
+        "public_id": "getaway/rooms/skyvilla2_gq46d4",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642881196/getaway/rooms/skyvilla2_gq46d4.jpg"
+      }
+    ],
+    "category": "Villa"
+  }, 
+  {
+    "name": "Forest Hills - The Glass House, Mumbai",
+    "pricePerNight": 25999,
+    "description": "The very definition of “stop and stare”-The Glass House -a villa enclosed by glass and wood, where you can soak in unobstructed and seamless views of your surroundings and revel in their beauty. Lush greenery, blue skies, the valley below and the mountains on one side — it sounds perfect, because it is. No curtains, no blinders, just you and nature. Built on stilts, the sprawling and luxe 2000 sq. ft. tree house is built on two levels interconnected by a spiral staircase. Each level has its own private balcony with a cosy sit out and private bathrooms.",
+    "address": "Forest Hills Tala, Taraste Village, Tala, Maharashtra, Mumbai - 400021",
+    "guestCapacity": 4,
+    "numOfBeds": 1,
+    "internet": false,
+    "breakfast": false,
+    "airConditioned": false,
+    "petsAllowed": true,
+    "roomCleaning": true,
+    "images": [
+      {
+        "public_id": "getaway/rooms/glass1_ehhppt",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642881501/getaway/rooms/glass1_ehhppt.jpg"
+      },
+      {
+        "public_id": "getaway/rooms/glass2_sjuh5k",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642881501/getaway/rooms/glass2_sjuh5k.jpg"
+      },
+      {
+        "public_id": "getaway/rooms/glass3_swkaa8",
+        "url": "https://res.cloudinary.com/getaway/image/upload/v1642881501/getaway/rooms/glass3_swkaa8.jpg"
+      }
+    ],
+    "category": "Villa"
+  }
+]
