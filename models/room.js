@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-require('.models/room');
 
 const roomSchema = new mongoose.Schema({
   name: {
