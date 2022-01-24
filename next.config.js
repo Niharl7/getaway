@@ -10,7 +10,7 @@ module.exports = {
       "sk_test_51KKrwjSI8B2j5UyCbUOTWiAY02SX9zqX86sEvfZ03gEYcz4Y5hPP8uRxrCS8AWnqkLAN6yl2xmjoTxrQngtNq3UI00ccJmFf6N",
 
     STRIPE_WEBHOOK_SECRET: "we_1KL1nBSI8B2j5UyCj44eI4M6",
-
+    
     CLOUDINARY_CLOUD_NAME: "getaway",
     CLOUDINARY_API_KEY: "599735549983952",
     CLOUDINARY_API_SECRET: "Oe6jUaoM-5hqh_dHVaplHaREHpM",
@@ -27,5 +27,4 @@ module.exports = {
   images: {
     domains: ["res.cloudinary.com"],
   },
-
 };
